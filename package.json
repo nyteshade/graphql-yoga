@@ -35,7 +35,7 @@
   },
   "dependencies": {
     "@types/cors": "^2.8.4",
-    "@types/express": "^4.11.1",
+    "@types/express": "^4.17.13",
     "@types/graphql": "^14.0.0",
     "@types/graphql-deduplicator": "^2.0.0",
     "@types/zen-observable": "^0.5.3",
