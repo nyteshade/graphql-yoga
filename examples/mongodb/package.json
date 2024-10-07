@@ -17,7 +17,7 @@
   "author": "Daksh Miglani <hello@dak.sh>",
   "license": "MIT",
   "dependencies": {
-    "graphql-yoga": "^1.14.4",
+    "graphql-yoga": "^2.0.0",
     "mongoose": "^5.1.2"
   },
   "devDependencies": {
